@@ -15,9 +15,9 @@ class Person
     @job
   end
   
-  beyonce = Person.new("Beyonce")
-  beyonce.name
+  
 end
 
-
+beyonce = Person.new("Beyonce")
+beyonce.name
 
