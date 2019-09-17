@@ -15,8 +15,7 @@ class Person
     @job
   end
 
-person.instance_variable_get(:@name)
-  
+
 end
 
 
