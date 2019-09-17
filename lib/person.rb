@@ -17,11 +17,12 @@ class Person
   end
 end
 
+
+
+person.instance_variable_get(:@name)
+
 beyonce = Person.new
 beyonce.name = "Beyonce"
 
 puts beyonce.name
-
-person.instance_variable_get(:@name)
-
 
