@@ -15,7 +15,7 @@ class Person
     @job
   end
 
-
+beyonce = 
 end
 
 
