@@ -22,6 +22,6 @@ beyonce.name = "Beyonce"
 
 puts beyonce.name
 
-beyonce.instance_variable_get(:@name)
+person.instance_variable_get(:@name)
 
 
