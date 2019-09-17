@@ -15,7 +15,8 @@ class Person
     @job
   end
 
-beyonce = 
+beyonce = Person.new
+
 end
 
 
