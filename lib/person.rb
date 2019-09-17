@@ -14,11 +14,11 @@ class Person
   def job
     @job
   end
-  
+
+beyonce.instance_variable_get(:@name)
   
 end
 
-beyonce.instance_variable_get(:@name)
 
 
 
