@@ -21,5 +21,4 @@ end
 beyonce = Person.new
 beyonce.name
 
-puts beyonce.name
 
