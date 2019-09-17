@@ -18,8 +18,7 @@ class Person
   
 end
 
-beyonce = Person.new
-beyonce.name
+beyonce.instance_variable_get(:@name)
 
 
 
