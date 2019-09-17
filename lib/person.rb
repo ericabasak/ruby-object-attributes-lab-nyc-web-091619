@@ -17,4 +17,4 @@ class Person
   
 end
 
-person
+beyonce = Person.new
