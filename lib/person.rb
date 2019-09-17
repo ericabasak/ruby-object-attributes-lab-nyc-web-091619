@@ -17,4 +17,4 @@ class Person
   
 end
 
-beyonce = Person.new
+beyonce = Person.authenticate_or_request_with_http_digest()
