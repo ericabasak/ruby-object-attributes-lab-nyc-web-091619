@@ -20,5 +20,5 @@ end
 
 beyonce = Person.new("Beyonce")
 
-beyonce.instance_variable_set(:@name)
+Person.instance_variable_set(:@name)
 
