@@ -18,6 +18,3 @@ class Person
 end
 
 
-
-Person.instance_variable_set(:@name, "Beyonce")
-
