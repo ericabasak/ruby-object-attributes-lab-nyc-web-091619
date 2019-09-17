@@ -19,7 +19,7 @@ end
 
 
 beyonce = Person.new
-beyonce.name = "Beyonce"
+beyonce.name
 
 puts beyonce.name
 
