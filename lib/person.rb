@@ -1,6 +1,6 @@
 class Person
   
-  def name
+  def initialize
   end
   
   def name=(person_name)
